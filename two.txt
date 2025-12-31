@@ -1,10 +1,1 @@
-hiiiiiiiiiii
-
-2nd commit
-
-
-this is footer adding from bugfix branch
-
-2026 is coming
-
-pinkmode is created
+this is two file
